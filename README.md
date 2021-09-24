@@ -1,1 +1,11 @@
-# micro2021
+# MICROPROGRAMACION 2021
+
+------
+
+## CONTENIDO🛠️
+
+- LAB3 - LABORATORIO 3 PETICION DE VARIABLES PARA OPERACIONES ARITMETICAS
+
+## Autor ✒️
+
+- Mario José Roldán Hernández - 1117517
